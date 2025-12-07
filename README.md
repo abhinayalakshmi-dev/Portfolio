@@ -30,13 +30,7 @@ JavaScript (DOM manipulation, dynamic components)
 │── /assets
 │     └── images, icons, etc.
 
-📸 Preview
 
-(Add a screenshot here if you want)
-
-Example:
-
-![Portfolio Screenshot](assets/screenshot.png)
 
 🌐 Live Demo
 
@@ -46,7 +40,7 @@ vercal link :[https://portfolio-liard-xi-vnh6i3sj6n.vercel.app/]
 
 Clone this repository
 
-git clone https://github.com/your-username/your-portfolio.git
+
 
 
 Open index.html in your browser
